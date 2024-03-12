@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niemenmaa
-- 👀 I’m interested in PHP, Laravel, API's, bookkeeping and ecommerce.
-- ➡️ For easier ecommerce, checkout [www.woovisor.fi](www.woovisor.fi)
+- 👀 I’m interested in PHP development, Laravel, API's, bookkeeping and ecommerce.
+- ➡️ For easier ecommerce, checkout [www.woovisor.fi](https://www.woovisor.fi)
 - 📫 Ask me a question via email: anttoni@kargo.fi
 
 <!---
